@@ -1,2 +1,1 @@
-# HTML
-Ders Notları
+# Ders Notları
